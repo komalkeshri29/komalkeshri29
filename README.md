@@ -3,7 +3,7 @@
 I'm Komal Keshri.
 </p>
 <p align='center'>For enquiries, reach out @komalkeshri29 or over on</p>
- <p align='center'><a href="https://twitter.com/komalkeshri29">Twitter</p>
+ <p align='center'><a href="https://twitter.com/komalkeshri29">[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)Twitter</p>
 <p align='center'><a href="https://www.linkedin.com/in/komalkeshri29/">Linkedin</p>
 <p align='center'><a href="https://www.facebook.com/komalkeshri29">Facebook</p>
  <p align='center'><a href="https://www.instagram.com/komalkeshri29/">Instagram</p>
