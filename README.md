@@ -10,13 +10,13 @@ I'm Komal Keshri.
 
 <span align="left">
   <a href="https://www.linkedin.com/in/komalkeshri29/">
-    <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komalkeshri29/" />
+    <img src="https://img.shields.io/badge/-komalkeshri29-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komalkeshri29/" />
   </a>
   <a href="https://dev.to/komalkeshri29">
-    <img src="https://img.shields.io/badge/DEV.to-rafacdomin-black" />
+    <img src="https://img.shields.io/badge/DEV.to-komalkeshri29-black" />
   </a>
   <a href="https://github.com/komalkeshri29/?tab=follow">
-    <img src="https://img.shields.io/github/followers/rafacdomin?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/komalkeshri29?label=Follow&style=social" />
   </a>
 </span>
 
