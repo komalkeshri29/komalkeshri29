@@ -1,3 +1,4 @@
+<img src="https://github.com/favicon.ico" height="240" width="480">
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Komal Keshri.
