@@ -10,7 +10,7 @@ I'm Komal Keshri.
 
 <span align="left">
   <a href="https://www.linkedin.com/in/komalkeshri29/">
-    <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcodomingues/" />
+    <img src="https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komalkeshri29/" />
   </a>
   <a href="https://dev.to/komalkeshri29">
     <img src="https://img.shields.io/badge/DEV.to-rafacdomin-black" />
