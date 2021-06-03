@@ -1,4 +1,4 @@
-<img src="https://github.com/favicon.ico" height="240" width="480">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQFaYgpKJUy0TQ/profile-displaybackgroundimage-shrink_350_1400/0/1622554218495?e=1628121600&v=beta&t=plD5yNCs6E0WAGIsgzrLOk0e-QPo0xkjNnyBqEwT5BM">
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Komal Keshri.
