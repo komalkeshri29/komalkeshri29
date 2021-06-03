@@ -6,7 +6,7 @@ I'm Komal Keshri.
  <p align='center'><a href="https://twitter.com/komalkeshri29">Twitter</p>
 <p align='center'><a href="https://www.linkedin.com/in/komalkeshri29/">Linkedin</p>
 <p align='center'><a href="https://www.facebook.com/in/komalkeshri29/">Facebook</p>
- <p align='center'><a href="https://www.instagram.com/in/komalkeshri29/">Instagram</p>
+ <p align='center'><a href="https://www.instagram.com/komalkeshri29/">Instagram</p>
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
